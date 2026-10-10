@@ -1,5 +1,8 @@
 # Retail Transaction Analytics Pipeline
 
+
+![Dashboard Overview](Screenshot%202026-08-05%20184004_1.png)
+
 Welcome to my retail data project! This repository contains the SQL scripts and Power BI dashboard I built to analyze over 2.5 million actual retail transactions from the Dunnhumby dataset. 
 
 I put this together as part of project focus to prove out a full data pipeline—from raw, messy CSVs to a polished corporate dashboard. I purposely avoided overused, overly clean datasets because I wanted to tackle the kind of massive, relational data you actually see in a real business environment.
